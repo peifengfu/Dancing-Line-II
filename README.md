@@ -10,7 +10,7 @@
 - ***5. Ranch***
 - ***6. Night***
 - ***7. Cathedral***
-- ***8. Abbyss***
+- ***8. Abyss***
 
 ## 3. Credits
 ### Game creator: 
